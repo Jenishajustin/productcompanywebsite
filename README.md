@@ -333,7 +333,8 @@ contact.html
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![homepage](https://user-images.githubusercontent.com/119405070/215462447-19f59ed1-8eaf-45da-8fc0-80a2a5fd49b6.jpg)
+
 <br>
 
 ![output3](https://user-images.githubusercontent.com/119405070/215461046-a49bfe09-701a-4a0c-990d-69c20fef0e64.png)
